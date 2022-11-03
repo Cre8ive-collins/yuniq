@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "DATABASE_URL":"mysql://ap2m1bcx26z8da93cwdx:pscale_pw_5KQ2YQ2pBzLB9jhMqG14needyiAXwKw87hop0SuYObn@us-east.connect.psdb.cloud/testdb?ssl={\"rejectUnauthorized\":true}"
+
+  }
+}
